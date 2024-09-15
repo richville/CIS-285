@@ -1,0 +1,10 @@
+C:\Users\12566\source\repos\changecalculator\bin\Debug\changecalculator.exe.config
+C:\Users\12566\source\repos\changecalculator\bin\Debug\changecalculator.exe
+C:\Users\12566\source\repos\changecalculator\bin\Debug\changecalculator.pdb
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.csproj.AssemblyReference.cache
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.Form1.resources
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.Properties.Resources.resources
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.csproj.GenerateResource.cache
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.csproj.CoreCompileInputs.cache
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.exe
+C:\Users\12566\source\repos\changecalculator\obj\Debug\changecalculator.pdb

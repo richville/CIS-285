@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "changecalculator", "changecalculator.csproj", "{29D21CC1-EA1B-46B1-91D6-D1DE55FD9D73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D21CC1-EA1B-46B1-91D6-D1DE55FD9D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D21CC1-EA1B-46B1-91D6-D1DE55FD9D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D21CC1-EA1B-46B1-91D6-D1DE55FD9D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D21CC1-EA1B-46B1-91D6-D1DE55FD9D73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2152F8B0-065A-40F8-AB5B-C41A0141020C}
+	EndGlobalSection
+EndGlobal
